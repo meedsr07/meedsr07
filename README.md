@@ -44,19 +44,13 @@ I like working close to the metal on the backend and keeping the frontend lean �
   <img src="https://img.shields.io/badge/SQLite-003B57?style=for-the-badge&logo=sqlite&logoColor=white" alt="SQLite" />
 </p>
 
----
-
-
-<p align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=meedsr07&theme=dark&hide_border=true" alt="GitHub Streak" width="60%" />
-</p>
-
----
 
 ### 📫 Let's Connect
 
-- 💼 **LinkedIn:** [Mohammed Sarar](https://www.linkedin.com/in/mohammed-sarar-1a38363b6/)
-- 📧 **Email:** `mohammedsarar7@gmail.com`
+<p align="left">
+  <a href="https://www.linkedin.com/in/mohammed-sarar-1a38363b6/"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" /></a>
+  <a href="mailto:mohammedsarar7@gmail.com"><img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email" /></a>
+</p>
 
 ---
 
