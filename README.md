@@ -50,7 +50,7 @@ I like working close to the metal on the backend and keeping the frontend lean â
 
 <p align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=meedsr07&show_icons=true&theme=dark&hide_border=true" alt="Mohammed's GitHub Stats" width="48%" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=meedsr07E&layout=compact&theme=dark&hide_border=true" alt="Top Languages" width="48%" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=meedsr07&layout=compact&theme=dark&hide_border=true" alt="Top Languages" width="48%" />
 </p>
 
 <p align="center">
