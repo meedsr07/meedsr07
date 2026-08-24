@@ -1,10 +1,6 @@
 # Hi there, I'm Mohammed Sarar 👋
 
-<p align="left">
-  <a href="https://www.linkedin.com/in/mohammed-sarar-1a38363b6/"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" /></a>
-  <a href="mailto:your.email@example.com"><img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email" /></a>
-  <img src="https://komarev.com/ghpvc/?username=YOUR_EXACT_GITHUB_USERNAME&style=for-the-badge&color=blueviolet" alt="Profile Views" />
-</p>
+
 
 ### 🧑‍💻 Full-Stack Developer building fast backend systems, real-time apps & interactive interfaces
 
@@ -53,12 +49,12 @@ I like working close to the metal on the backend and keeping the frontend lean �
 ### 📊 GitHub Statistics
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=YOUR_EXACT_GITHUB_USERNAME&show_icons=true&theme=dark&hide_border=true" alt="Mohammed's GitHub Stats" width="48%" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=YOUR_EXACT_GITHUB_USERNAME&layout=compact&theme=dark&hide_border=true" alt="Top Languages" width="48%" />
+  <img src="https://github-readme-stats.vercel.app/api?username=meedsr07&show_icons=true&theme=dark&hide_border=true" alt="Mohammed's GitHub Stats" width="48%" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=meedsr07E&layout=compact&theme=dark&hide_border=true" alt="Top Languages" width="48%" />
 </p>
 
 <p align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=YOUR_EXACT_GITHUB_USERNAME&theme=dark&hide_border=true" alt="GitHub Streak" width="60%" />
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=meedsr07&theme=dark&hide_border=true" alt="GitHub Streak" width="60%" />
 </p>
 
 ---
@@ -66,7 +62,7 @@ I like working close to the metal on the backend and keeping the frontend lean �
 ### 📫 Let's Connect
 
 - 💼 **LinkedIn:** [Mohammed Sarar](https://www.linkedin.com/in/mohammed-sarar-1a38363b6/)
-- 📧 **Email:** `your.email@example.com`
+- 📧 **Email:** `mohammedsarar7@gmail.com`
 
 ---
 
